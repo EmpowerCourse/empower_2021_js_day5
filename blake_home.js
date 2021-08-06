@@ -47,7 +47,7 @@ export default {
 					rightStove: ["200/1000 grit whetstone", "8000/3000 grit whet stone", "ceramic honing rod"],
 					"right-fridge-1": [],
 					"right-fridge-2": [],
-					"rightSink": ["thermometer", "peeler", "knick-knacks"]
+					rightSink: ["thermometer", "peeler", "knick-knacks"]
 				}
 			},
 			bedroom: {
