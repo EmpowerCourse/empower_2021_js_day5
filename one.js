@@ -4,7 +4,7 @@ function whatsInBlakesFridge() {
 
     console.log("whatsInBlakesFridge??");
 
-    console.log(condos);
+    // console.log(condos);
 
     const list = document.getElementById("fridgeList");
     const newItem = document.createElement("li");
@@ -12,11 +12,7 @@ function whatsInBlakesFridge() {
     newItem.id = firstItemId;
     list.appendChild(newItem);
 
-    //now you do
-    // add more functions
-
-    // countFridgeStuf();
-    findThermometer();
+    // add more function calls
 
 };
 
