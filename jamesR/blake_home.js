@@ -1,6 +1,6 @@
 export default {
 	623: {
-		a: {},
+		a: [1, false, "cow", undefined],
 		b: {},
 		c: null,
 		d: {},
