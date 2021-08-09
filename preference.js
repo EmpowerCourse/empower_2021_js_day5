@@ -14,6 +14,6 @@ for (let i = 0; i < whatAmI.length; i++) {
     }
 }
 
-function newPreference(someFlavor, preference) {
-    return { flavor: someFlavor, preferenceSequence: preference };
+function findPreferenceSequence(preferenceName) {
+    
 }
